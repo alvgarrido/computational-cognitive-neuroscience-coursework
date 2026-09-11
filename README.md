@@ -1,6 +1,6 @@
 # Computational Cognitive Neuroscience
 
-Assignment notebooks for the University of Edinburgh course **Computational Cognitive Neuroscience**. The assignments explore neural population dynamics and computational modelling of behavioural data using Python.
+Assignment notebooks for the University of Edinburgh course **[Computational Cognitive Neuroscience](https://www.drps.ed.ac.uk/current/dpt/cxinfr11233.htm)**. The assignments explore neural population dynamics and computational modelling of behavioural data using Python.
 
 ## Assignments
 
@@ -60,6 +60,3 @@ Plots and numerical results appear inside the notebooks. Assignment 1 generates 
 
 The notebooks use random sampling, so reruns can produce different results. For repeatable runs within the same environment, set a NumPy random seed immediately after the imports before executing the remaining cells.
 
-## Validation status
-
-Dependencies and instructions were derived from inspection of both notebooks. A full installation and notebook execution have not been verified; the requirements are not a tested lockfile.
